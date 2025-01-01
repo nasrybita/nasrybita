@@ -2,7 +2,7 @@
 ## _👩‍💻Backend developer sharing about my journey and learnings in tech_
 
 🛣️ I went to university for management. Spent some time at an IT company, and realized programming was my real passion. So I decided to switch gears and chase after my dream job.
-https://linkedin.com/in/https://www.linkedin.com/in/setareh-nasrollahzadeh-13630a255/
+
 
 
 ## 🌐 Socials:
