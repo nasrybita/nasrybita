@@ -1,8 +1,7 @@
 # Hi, I'm Bita!
 ## _👩‍💻Backend developer sharing about my journey and learnings in tech_
 
-🛣️ I studied management at the university. After a while working in an IT company, I noticed my great passion for programming. So I decided to change my job direction in order to move toward my dream job.
-
+🛣️ I went to university for management. Spent some time at an IT company, and realized programming was my real passion. So I decided to switch gears and chase after my dream job.
 
 
 
