@@ -1,5 +1,5 @@
 # Hi, I'm Bita!  
-[![](https://visitcount.itsvg.in/api?id=nasrybita&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=nasrybita&label=Profile%20views&color=0e75b6&style=flat)
 
 ## _👩‍💻 Backend developer sharing about my journey and learnings in tech_
 
