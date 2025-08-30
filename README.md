@@ -1,5 +1,4 @@
 # Hi, I'm Bita!  
-![Profile Views](https://komarev.com/ghpvc/?username=nasrybita&label=Profile%20views&color=0e75b6&style=flat)
 
 ## _👩‍💻 Backend developer sharing about my journey and learnings in tech_
 
