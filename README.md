@@ -1,11 +1,8 @@
-# Hi, I'm Bita!  
+# 👋 Hello there, I'm Bita!  
 
 ## _👩‍💻 Backend developer sharing about my journey and learnings in tech_
 
-🛣️ 👋 Hello there, 
-I am Setareh ⭐
-
-I spent seven years in a knowledge-based IT company, gaining valuable experience across technology and business. Although my degree is in Marketing Management, my career path gradually sparked a passion for software development.
+🛣️ I spent seven years in a knowledge-based IT company, gaining valuable experience across technology and business. Although my degree is in Marketing Management, my career path gradually sparked a passion for software development.
 
 What began as curiosity has grown into a commitment to becoming a professional software engineer. I’m especially interested in backend development, system design, and modern programming tools, and I’m focused on building the expertise needed to contribute to impactful projects that deliver real value.
 
